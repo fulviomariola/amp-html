@@ -12,7 +12,7 @@ import javax.swing.border.Border;
 public class Main {
 	
 	public static void main(String[] args) {
-		ImageIcon icon = new ImageIcon("cms.jpg");
+		ImageIcon icon = new ImageIcon("resource/cms.jpg");
 		Border border = BorderFactory.createLineBorder(Color.green,3);
 		
 		JLabel label = new JLabel();
