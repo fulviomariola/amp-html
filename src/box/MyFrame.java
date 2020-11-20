@@ -7,6 +7,11 @@ import javax.swing.JFrame;
 
 public class MyFrame extends JFrame {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -577483215549437994L;
+
 	MyFrame() {
 		
 		this.setTitle("Inserisci Dati HTML");
